@@ -1,0 +1,50 @@
+.orqa-rasm1{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url("https://corp.mobi.uz/upload/iblock/57e/ojbo0eon7c37fjzwavaefnis89t6epr3/XOTIRJAM-CORP-100-big-banner-site.jpg");
+    width: 100%;
+}
+.tarif{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    border-bottom: 1px solid red;
+}
+.title{
+    position: absolute;
+    top: 30%;
+    left: 5%;
+}
+.text{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+}
+.knopka{
+    position: absolute;
+    top: 80%;
+    left: 5%;
+    background: linear-gradient(10deg,red,darkred);
+    border-radius: 20px;
+    padding: 0.25rem 2rem;
+}
+.qolda-a{
+    background: rgba(255,255,255,0.3);
+    padding: 1rem 1rem 1rem 0.80rem;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute !important;
+    bottom: 17% !important;
+    right: 15% !important;
+}
+.qolda-b{
+    background: rgba(255,255,255,0.3);
+    padding: 1rem 0.80rem 1rem 1rem ;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute !important;
+    bottom: 17% !important;
+    right: 7% !important;
+}
